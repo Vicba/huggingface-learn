@@ -193,3 +193,9 @@ result = get_weather("New York")
 final_answer = f"The current weather in New York is: {result}"
 print(final_answer)
 ```
+
+## Function calling
+While here, with function-calling, the Agent is fine-tuned (trained) to use Tools.
+
+If we have one piece of advice now, it’s to try to fine-tune different models. The best way to learn is by trying.
+
