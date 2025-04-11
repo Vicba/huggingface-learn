@@ -1,0 +1,8 @@
+smolagents
+langchain
+datasets
+langchain-community
+rank_bm25
+python-dotenv
+langgraph
+langchain-huggingface
